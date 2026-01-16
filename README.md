@@ -6,4 +6,4 @@
 
 # GitHub Stats:
 
-![](https://github-readme-stats-murex-pi-78.vercel.app/api?username=billonium4535&theme=radical&hide=prs,contribs)
+![](https://github-readme-stats-murex-pi-78.vercel.app/api?username=billonium4535&theme=radical&hide=prs,contribs&hide_border=true)
