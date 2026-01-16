@@ -8,4 +8,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=billonium4535&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=billonium4535&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billonium4535)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=billonium4535)
